@@ -16,6 +16,6 @@ Familiar with
 ```
 My Favorite Projects
 - Running Doom on a drone controller
-- Spotify Now Playing website designed for a Raspberry Pi
+- Spotify Now Playing web app designed for a Raspberry Pi
 - Teenage Engineering OP-1 Tombola videopak for the OP-Z
 ```
