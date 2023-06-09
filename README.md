@@ -5,7 +5,7 @@
 
 I'm Roman Garms, a Computer Science major going into University of California Santa Cruz this fall. 
 ```
-Familiar with 
+Familiar with:
 - Java
 - C#
 - Python
@@ -14,7 +14,7 @@ Familiar with
 ```
 
 ```
-My Favorite Projects
+My favorite projects:
 - Running Doom on a drone controller
 - Spotify Now Playing web app designed for a Raspberry Pi
 - Teenage Engineering OP-1 Tombola videopak for the OP-Z
