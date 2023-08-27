@@ -3,10 +3,8 @@
 
 ### Hiya
 
-<!--
-**Romano-Garmez/Romano-Garmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+I'm Roman Garms, a Computer Science major going to University of California Santa Cruz. Interested in computers, cars, photos and videos.
 
-I'm Roman Garms, a Computer Science major going to University of California Santa Cruz. 
 ```
 Familiar with:
 - Java
