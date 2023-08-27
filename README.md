@@ -19,6 +19,6 @@ My favorite projects:
 - Spotify Now Playing web app designed for a Raspberry Pi
 - Teenage Engineering OP-1 Tombola videopak for the OP-Z
 ```
-
-[![Videolab Creators](VideolabCreators.png)](https://github.com/Videolab-Creators-Group)
-[![Code Ninjas Seattle](CodeNinjas.png)](https://github.com/CNSeattle)
+#### Organizations I'm involved in
+[<img src="VideolabCreators.png" width="48">](https://github.com/Videolab-Creators-Group)
+[<img src="CodeNinjas.png" width="48">](https://github.com/CNSeattle)
