@@ -8,8 +8,8 @@ I'm Roman Garms, a Computer Science major going to University of California Sant
 ```
 Familiar with:
 - Java
-- C#
 - Python
+- C#
 - Javascript
 - C
 ```
