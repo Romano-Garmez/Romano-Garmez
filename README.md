@@ -12,6 +12,7 @@ Familiar with:
 - C#
 - Javascript
 - C
+- Swift
 ```
 
 ```
