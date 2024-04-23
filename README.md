@@ -18,8 +18,9 @@ Familiar with:
 ```
 My favorite projects:
 - Running Doom on a drone controller
-- Spotify Now Playing web app designed for a Raspberry Pi
-- Teenage Engineering OP-1 Tombola videopak for the OP-Z
+- Making my Spotify Now Playing web app designed for a Raspberry Pi
+- Creating a Teenage Engineering OP-1 Tombola videopak for the OP-Z
+- Tuning my car with a Steam Deck
 ```
 #### Organizations I'm involved in
 [<img src="VideolabCreators.png" width="48">](https://github.com/Videolab-Creators-Group)
