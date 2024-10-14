@@ -18,8 +18,9 @@ Familiar with:
 ```
 My favorite projects:
 - Making my Spotify Now Playing web app designed for a Raspberry Pi
-- Creating a Teenage Engineering OP-1 Tombola videopak for the OP-Z
+- Creating a Teenage Engineering OP-1 Tombola themed videopak for the OP-Z
 - Creating custom applications to run on my car's infotainment system
+- Creating a Forza-Horizon-like location tracker website that shows me all of the roads I've driven
 - Porting a friend's game to the Playstation 3
 - Tuning my car with a Steam Deck
 - Running Doom on a drone controller
