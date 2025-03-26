@@ -7,11 +7,12 @@ I'm Roman Garms, a Computer Science major going to University of California Sant
 
 ```
 Familiar with:
-- Python
+- C
+- C++
+- C#
 - Java
 - Javascript
-- C#
-- C
+- Python
 - Swift
 ```
 
