@@ -26,7 +26,7 @@ My favorite projects:
 - Tuning my car with a Steam Deck
 - Running Doom on a drone controller
 ```
-#### Organizations I'm Involved In
+### See my work elsewhere:
 [<img src="Logic.png" width="48">](https://github.com/with-logic)
 [<img src="VideolabCreators.png" width="48">](https://github.com/Videolab-Creators-Group)
 [<img src="CodeNinjas.png" width="48">](https://github.com/CNSeattle)
