@@ -32,4 +32,6 @@ My favorite projects:
 [<img src="CodeNinjas.png" width="48">](https://github.com/CNSeattle)
 
 ## Check out my website!
+Learn more about my projects, and see other ones I haven't listed here.
+
 ### [romangarms.com](https://romangarms.com)
